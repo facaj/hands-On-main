@@ -1,0 +1,62 @@
+{
+  "alunos": [
+    {
+      "id": 2,
+      "nome": "Murilo Victor Bento Dias",
+      "matricula": "002",
+      "curso": "Redes"
+    },
+    {
+      "id": 3,
+      "nome": "Patrícia Marcela Sara Novaes",
+      "matricula": "003",
+      "curso": "Sistemas para internet"
+    },
+    {
+      "nome": "teste",
+      "matricula": "123",
+      "curso": "Sistemas para internet",
+      "id": 4
+    },
+    {
+      "nome": "123",
+      "matricula": "123",
+      "curso": "Sistemas para internet",
+      "id": 5
+    }
+  ],
+  "disciplinas": [
+    {
+      "id": 1,
+      "nome": "Introdução a progração com scripts",
+      "cargaHoraria": "36h",
+      "professor": "Tiago Daniel Fernando Baptista",
+      "status": "Obrigatória",
+      "observacos": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 2,
+      "nome": "Fundamentos da Computação",
+      "cargaHoraria": "60h",
+      "professor": "Marcela Vera Mendes",
+      "status": "Obrigatória",
+      "observacos": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 2,
+      "nome": "Linguagens de Marcação",
+      "cargaHoraria": "67h",
+      "professor": "Marcela Vera Mendes",
+      "status": "Obrigatória",
+      "observacos": "Lorem ipsum dolor sit amet consectetur adipisicing."
+    },
+    {
+      "nome": "",
+      "cargaHoraria": "teste",
+      "professor": "teste",
+      "status": "",
+      "observacos": "teste asdsa fdsf ",
+      "id": 3
+    }
+  ]
+}
